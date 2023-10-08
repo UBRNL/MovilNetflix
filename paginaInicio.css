@@ -1,0 +1,19 @@
+.container {
+    background-color: black;
+    height: 50rem;
+}
+.container-a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15%;
+}
+
+a:hover{
+    cursor:pointer
+}
+.container-texto {
+    font-size: 95px;
+    font-weight: 700;
+    color: rgb(232, 6, 6);
+}

@@ -1,0 +1,32 @@
+
+.punto1 {
+    background-color: white;
+    width: 10px;
+    height: 10px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+p:hover {
+    cursor: pointer;
+}
+
+
+@media (min-width: 576px) {
+    .img-video {
+        display: none;
+    }
+}
+
+
+@media (min-width: 768px) {}
+
+
+@media (min-width: 992px) {}
+
+@media (min-width: 1200px) {}
+
+
+@media (min-width: 1400px) {}
